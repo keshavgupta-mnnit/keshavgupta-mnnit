@@ -20,7 +20,8 @@ just to see if they're possible.
   An Android app that uses the IR Blaster API to control PixelMob concert
   wristbands. Has a real-time audio beat analyzer that fires color signals
   in sync with music. Pending Play Store release.
-
+  
+- **[🚗 Car Magic Browser (CMB)](https://github.com/keshavgupta-mnnit/CarMagicBrowserReleases)** – Experimental browser for car screens using VirtualDisplay, GeckoView, and MotionEvent-based input bridging.
 ---
 
 ## 🛠 Tech I work with
